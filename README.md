@@ -7,21 +7,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internship-2ea043?style=flat-square" alt="Open to Internship" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%C2%B7%20Full--Stack%20%C2%B7%20Game%20Dev%20%C2%B7%20DevOps-1f6feb?style=flat-square" alt="Focus areas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/status-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/status-light.svg" />
+    <img src="./assets/status-dark.svg" alt="Open to Internship · Backend · Full-Stack · Game Dev · DevOps" height="40" />
+  </picture>
 </p>
 
 ### <img src="https://api.iconify.design/lucide/user-round.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; About Me
 
-- 3rd-year Software Engineering student at **Saigon University**, Ho Chi Minh City, Vietnam
-- Focused on **Backend Architecture**, **Database Design**, **Full-Stack Web** and **CI/CD**
-- Building practical, containerized systems with clean architecture
+I'm a 3rd-year Software Engineering student at **Saigon University**, focused on **Backend Architecture**, **Database Design**, **Full-Stack Web** and **CI/CD**, building practical, containerized systems with clean architecture.
+
+| Location | Education | Focus | Open to |
+| :---: | :---: | :---: | :---: |
+| Ho Chi Minh City, Vietnam | Saigon University · Year 3 | Backend · Full-Stack · DevOps | Internship · Collaboration |
+
+---
 
 ### <img src="https://api.iconify.design/lucide/compass.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Currently
 
 <!-- - **Building:** add your current project here -->
 - **Learning:** Unity · Unreal Engine · Shaders · Multiplayer · Python · scikit-learn · Claude API · Docker
 - **Looking for:** Backend · Full-Stack · Game Dev · DevOps · Software Engineer Intern
+
+---
 
 ### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Featured Projects
 
@@ -30,95 +39,85 @@
 | [**TourVoice**](https://github.com/K-sewii/tourvoice) | Automated multilingual tour narration system | `.NET` · `MySQL` |
 | [**DongNamTrip**](https://github.com/K-sewii/tour-booking-management-system) | Tour booking management system | `C#` · `SQL Server` · `Docker` |
 
+---
+
 ### <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Tech Stack
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,java,py,ts,js,c,cpp,html,css" height="40" alt="Languages" /></td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" title="Blazor" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" height="40" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET / ASP.NET Core" title=".NET / ASP.NET Core" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate / JPA" title="Hibernate / JPA" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,spring,hibernate,nodejs" height="40" alt="Backend" /></td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>Databases</b></td>
+    <td><img src="./assets/databases.svg" height="40" alt="Databases" /></td>
   </tr>
   <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,azure,aws,linux,powershell,git,github" height="40" alt="DevOps & Cloud" /></td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Maven" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>Game Dev</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,unreal,blender" height="40" alt="Game Dev" /></td>
   </tr>
   <tr>
-    <td><b>Testing</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="40" height="40" />&nbsp;&nbsp;
-    </td>
+    <td width="140"><b>AI &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,sklearn" height="40" alt="AI & Data" /></td>
+  </tr>
+  <tr>
+    <td width="140"><b>Tools</b></td>
+    <td><img src="./assets/tools.svg" height="40" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td width="140"><b>Testing</b></td>
+    <td><img src="./assets/testing.svg" height="40" alt="Testing" /></td>
   </tr>
 </table>
 
-<sub>Also: **Entity Framework Core** · **Razor Pages** · **Windows Forms** · **REST API** · **JWT** · **xUnit**</sub>
+<sub>Also: **Blazor** · **Entity Framework Core** · **Razor Pages** · **Windows Forms** · **REST API** · **Swagger** · **JWT** · **NumPy** · **Pandas** · **Claude API**</sub>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; GitHub Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=default&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub Stats" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=34D399" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=334155&ring_color=059669" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=7C3AED&text_color=334155&ring_color=059669" alt="GitHub Stats" height="180" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=default&bg_color=00000000" alt="Top Languages" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=K-sewii&hide_border=true&background=00000000&ring=34D399&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&stroke=334155" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=K-sewii&hide_border=true&background=00000000&ring=059669&fire=0891B2&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0891B2&sideLabels=7C3AED&dates=64748B&stroke=CBD5E1" />
+    <img src="https://streak-stats.demolab.com?user=K-sewii&hide_border=true&background=00000000&ring=059669&fire=0891B2&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0891B2&sideLabels=7C3AED&dates=64748B&stroke=CBD5E1" alt="GitHub Streak" height="180" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=334155" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=334155" alt="Top Languages" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=K-sewii&bg_color=00000000&hide_border=true&color=CBD5E1&title_color=22D3EE&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=K-sewii&bg_color=00000000&hide_border=true&color=334155&title_color=0891B2&line=0891B2&point=7C3AED&area=true&area_color=0891B2" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-sewii&bg_color=00000000&hide_border=true&color=334155&title_color=0891B2&line=0891B2&point=7C3AED&area=true&area_color=0891B2" alt="Contribution Activity Graph" width="100%" />
+  </picture>
+</p>
+
+---
 
 ### <img src="https://api.iconify.design/lucide/git-branch.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Contributions
 
@@ -140,9 +139,19 @@
   </picture>
 </p>
 
+---
+
 ### <img src="https://api.iconify.design/lucide/mail.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Contact
 
-<p><a href="https://www.instagram.com/9se.wii/"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%2358a6ff" width="16" height="16" align="center" alt="" />&nbsp;Instagram</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/kpham2912/?locale=vi_VN"><img src="https://api.iconify.design/simple-icons/facebook.svg?color=%2358a6ff" width="16" height="16" align="center" alt="" />&nbsp;Facebook</a></p>
+<p>
+  <a href="https://www.instagram.com/9se.wii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/kpham2912/?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 <!-- Resume / Portfolio: add link here -->
 <!-- Certifications / Achievements: add section here -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=110&section=footer" width="100%" alt="" />
+</p>
