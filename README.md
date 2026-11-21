@@ -6,20 +6,31 @@
   </picture>
 </p>
 
-### About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internship-2ea043?style=flat-square" alt="Open to Internship" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%C2%B7%20Full--Stack%20%C2%B7%20Game%20Dev%20%C2%B7%20DevOps-1f6feb?style=flat-square" alt="Focus areas" />
+</p>
 
-- Software Engineering student in **Ho Chi Minh City, Vietnam**
+### <img src="https://api.iconify.design/lucide/user-round.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; About Me
+
+- 3rd-year Software Engineering student at **Saigon University**, Ho Chi Minh City, Vietnam
 - Focused on **Backend Architecture**, **Database Design**, **Full-Stack Web** and **CI/CD**
 - Building practical, containerized systems with clean architecture
 
-### Featured Projects
+### <img src="https://api.iconify.design/lucide/compass.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Currently
+
+<!-- - **Building:** add your current project here -->
+- **Learning:** Unity · Unreal Engine · Shaders · Multiplayer · Python · scikit-learn · Claude API · Docker
+- **Looking for:** Backend · Full-Stack · Game Dev · DevOps · Software Engineer Intern
+
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **TourVoice** | Hệ thống thuyết minh du lịch tự động đa ngôn ngữ | `.NET` · `MySQL` |
-| **DongNamTrip** | Hệ thống quản lý đặt tour du lịch | `C#` · `SQL Server` · `Docker` |
+| [**TourVoice**](https://github.com/K-sewii/tourvoice) | Automated multilingual tour narration system | `.NET` · `MySQL` |
+| [**DongNamTrip**](https://github.com/K-sewii/tour-booking-management-system) | Tour booking management system | `C#` · `SQL Server` · `Docker` |
 
-### Tech Stack
+### <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Tech Stack
 
 <table>
   <tr>
@@ -94,7 +105,22 @@
 
 <sub>Also: **Entity Framework Core** · **Razor Pages** · **Windows Forms** · **REST API** · **JWT** · **xUnit**</sub>
 
-### Contributions
+### <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=default&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=K-sewii&show_icons=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-sewii&layout=compact&hide_border=true&theme=default&bg_color=00000000" alt="Top Languages" height="165" />
+  </picture>
+</p>
+
+### <img src="https://api.iconify.design/lucide/git-branch.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Contributions
 
 <p align="center">
   <picture>
@@ -114,6 +140,9 @@
   </picture>
 </p>
 
-### Contact
+### <img src="https://api.iconify.design/lucide/mail.svg?color=%2358a6ff" width="22" height="22" align="center" alt="" />&nbsp; Contact
 
-[GitHub](https://github.com/K-sewii) · [Instagram](https://www.instagram.com/9se.wii/) · [Facebook](https://www.facebook.com/kpham2912/?locale=vi_VN) · [Email](mailto:pnmk29122006@gmail.com)
+<p><a href="https://www.instagram.com/9se.wii/"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%2358a6ff" width="16" height="16" align="center" alt="" />&nbsp;Instagram</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/kpham2912/?locale=vi_VN"><img src="https://api.iconify.design/simple-icons/facebook.svg?color=%2358a6ff" width="16" height="16" align="center" alt="" />&nbsp;Facebook</a></p>
+
+<!-- Resume / Portfolio: add link here -->
+<!-- Certifications / Achievements: add section here -->
