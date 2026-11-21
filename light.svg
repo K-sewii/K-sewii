@@ -220,8 +220,8 @@
       </rect>
       <rect x="664" y="368" width="24" height="3" rx="1.5" fill="#0891B2" />
       <text x="664" y="398" class="mono" font-size="18" font-weight="700" fill="#0F172A">Database</text>
-      <text x="664" y="420" class="mono" font-size="14" fill="#475569">SQL Server</text>
-      <text x="664" y="439" class="mono" font-size="14" fill="#475569">MongoDB</text>
+      <text x="664" y="420" class="mono" font-size="14" fill="#475569">MySQL</text>
+      <text x="664" y="439" class="mono" font-size="14" fill="#475569">SQL Server</text>
       <rect x="812" y="352" width="154" height="100" rx="10" fill="#F1F5F9" fill-opacity="0.56" stroke="#CBD5E1" />
       <rect x="812" y="352" width="154" height="100" rx="10" stroke="#059669" stroke-width="1.6" stroke-linecap="round" pathLength="100" stroke-dasharray="12 88" opacity="0.9">
         <animate attributeName="stroke-dashoffset" values="0;-100" dur="7s" begin="2.4s" repeatCount="indefinite" />
